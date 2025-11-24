@@ -1,5 +1,6 @@
 # VITyarthi-Assignment
 All 34 Questions asked on the assignment
+
 Q2) Digital Root Function
 
 Task: Write a function digital_root(n) that repeatedly sums the digits of a number until a single-digit value is obtained.
