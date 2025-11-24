@@ -2,8 +2,6 @@
 All 34 Questions asked on the assignment
 Q2) Digital Root Function
 
-Rephrased Explanation
-
 Task: Write a function digital_root(n) that repeatedly sums the digits of a number until a single-digit value is obtained.
 
 What We Did:
@@ -47,10 +45,6 @@ Performance Optimization: Shows best practices for handling divisor-based comput
 
 Research Applications: Useful for exploring divisor properties and integer sequences.
 
-
-
----
-
 Q12) Prime Power Checker
 
 Task: Write a function is_prime_power(n) that determines whether a number can be written as , where  is prime and .
@@ -75,10 +69,6 @@ Algorithmic Thinking: Shows how theoretical math concepts guide efficient coding
 
 Code Optimization: Demonstrates techniques like early exit and reduced iteration ranges.
 
-
-
----
-
 Q16) Aliquot Sum Function
 
 Task: Write a function aliquot_sum(n) that returns the sum of all proper divisors of n.
@@ -102,10 +92,6 @@ Number Classification: Helps determine whether numbers are deficient, perfect, o
 Sequence Generation: Useful in generating aliquot sequences for mathematical studies.
 
 Algorithm Training: Demonstrates optimization techniques commonly used in divisor-related problems.
-
-
-
----
 
 Q21) Modular Multiplicative Inverse
 
